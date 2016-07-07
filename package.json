@@ -1,0 +1,32 @@
+{
+  "name": "fbmessengerchat",
+  "version": "1.0.0",
+  "description": "sample messenger chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crosofg/fbmessengerchat.git"
+  },
+  "keywords": [
+    "messenger"
+  ],
+  "author": "gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crosofg/fbmessengerchat/issues"
+  },
+  "homepage": "https://github.com/crosofg/fbmessengerchat#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "config": "^1.21.0",
+    "express": "^4.14.0",
+    "request": "^2.72.0",
+    "wtf_wikipedia": "^0.3.2"
+  },
+  "engines": {
+    "node": "~4.1.2"
+  }
+}
